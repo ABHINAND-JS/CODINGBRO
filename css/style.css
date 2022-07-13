@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Anton&family=Gentium+Book+Plus:ital,wght@1,700&family=Oleo+Script+Swash+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#title{
+    background-color:#ff4c68;
+}
+.navbar-brand h1{
+    color: white;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.row h1{
+    color: white;
+    padding-left: 0%;
+    margin-top: 2px;
+}
+.la{
+    padding-left: 431px;
+}
+.po{
+    color: black;
+    padding: 3% 7%;
+    text-align: center;
+}
+.icon{
+    color: #ef8172;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+#carouselExampleCaptions img{
+    border-radius: 100%;
+    width: 20%;
+
+}
+.pic{
+    width: 200px;
+    height: 250px;
+}
+#testimonial{
+    background-color: #ff4c68;
+}
+#testimonial img{
+    border-radius: 100%;
+    margin: 2% 43%;
+    width: 120px;
+}
+#partners{
+    background-color:#ff4c68;
+}
+#partners h2{
+    color: white;
+    text-align: center;
+}
+#partners img{       
+    width: 340px;
+    background-color: #ff4c68;
+    margin-left: 69px;
+}
+#course{
+    padding: 4% 1%;
+}
+#course img{
+    height: 103px;
+}
+.carousel-inner{
+    padding :3% 15%;
+}
+.li{
+    font-family: 'Gentium Book Plus', serif;
+    font-size: larger;
+    text-align: center;
+    color: white;
+    
+}
+.lo{
+    font-family: 'Gentium Book Plus', serif;
+    margin-left: 396px;
+    color: white;
+    margin-top: 31px;
+}
+.card{
+    height: 319px;
+}
+.t1{
+    height: 94px;
+}
+#footer{
+    background-color: #ff4c68;
+    padding: 3% 16%;
+}
+.search{
+    width: 16%;
+    margin-top: 23px;
+}
+.bar{
+    width: 152px;
+    margin-top: 24px;
+}
+.site{
+    color: #fff;
+}#footer a{
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Montserrat-Bold';
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #fff;
+}
+#footer h3{
+    font-family: 'Montserrat-Bold';
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #fff;
+    width: 268px;
+}
+label{
+    color:#fff;
+}
+
+#footer h4{
+    font-family: 'Montserrat-Bold';
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #fff;
+    text-align: center;
+    margin-top: 21px;
+}
